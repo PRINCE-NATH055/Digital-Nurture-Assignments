@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\Digital-Nurture-4.0-weekwise-exercises\\1st week\\Data structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\Digital-Nurture-Assignments\\1st week\\Data structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj",
       "projectName": "FinancialForecasting",
-      "projectPath": "C:\\Users\\KIIT\\Desktop\\Digital-Nurture-4.0-weekwise-exercises\\1st week\\Data structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj",
+      "projectPath": "C:\\Users\\KIIT\\Desktop\\Digital-Nurture-Assignments\\1st week\\Data structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIIT\\Desktop\\Digital-Nurture-4.0-weekwise-exercises\\1st week\\Data structures and Algorithms\\FinancialForecasting\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\Desktop\\Digital-Nurture-Assignments\\1st week\\Data structures and Algorithms\\FinancialForecasting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
