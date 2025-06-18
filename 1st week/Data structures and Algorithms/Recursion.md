@@ -1,0 +1,4 @@
+# Why Use Recursion in Forecasting? #
+> Recursion is when a function calls itself to solve smaller parts of a problem. It can make code shorter and easier to understand, especially for problems that repeat in steps — like calculating factorial, Fibonacci numbers, or solving tree structures. Instead of using loops, recursion breaks the problem down into simpler versions of itself.
+
+> In this exercise, recursion can be helpful for calculating future values step by step based on past data. It **breaks the forecasting process into smaller periods, making the logic easier to write and understand** — especially for simple or short-term forecasts.
